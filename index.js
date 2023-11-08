@@ -1,1 +1,244 @@
-const _0x307476=_0x2981;(function(_0x201737,_0x1c930b){const _0x232277=_0x2981,_0x40ecdd=_0x201737();while(!![]){try{const _0x5e5fa9=parseInt(_0x232277(0x21e))/0x1*(-parseInt(_0x232277(0x1fc))/0x2)+parseInt(_0x232277(0x1d0))/0x3+-parseInt(_0x232277(0x1f9))/0x4*(parseInt(_0x232277(0x1bd))/0x5)+parseInt(_0x232277(0x20a))/0x6+-parseInt(_0x232277(0x1de))/0x7+parseInt(_0x232277(0x21c))/0x8*(-parseInt(_0x232277(0x1e7))/0x9)+parseInt(_0x232277(0x1c7))/0xa;if(_0x5e5fa9===_0x1c930b)break;else _0x40ecdd['push'](_0x40ecdd['shift']());}catch(_0x31645d){_0x40ecdd['push'](_0x40ecdd['shift']());}}}(_0x4eec,0xef2b8));const axios=require('axios'),cheerio=require('cheerio'),entities=require(_0x307476(0x204)),FormData=require(_0x307476(0x1e3)),qs=require('qs'),pkg=require('./package.json'),msg='Not\x20Allowed\x20Cracked\x20Version..';function _0x2981(_0x3ca355,_0x1c8027){const _0x4eecb8=_0x4eec();return _0x2981=function(_0x29817d,_0x3c9943){_0x29817d=_0x29817d-0x1bb;let _0x44cb7c=_0x4eecb8[_0x29817d];return _0x44cb7c;},_0x2981(_0x3ca355,_0x1c8027);}async function package(){const _0x313dfe=_0x307476;if(pkg[_0x313dfe(0x22a)]!=_0x313dfe(0x22b))throw new Error(msg);}package(),module[_0x307476(0x1e8)]['searchVideo']=async _0x43c9a6=>{const _0x460dba=_0x307476;package();if(_0x43c9a6[_0x460dba(0x1c6)]===![]||typeof _0x43c9a6[_0x460dba(0x1c6)]==_0x460dba(0x210))try{var _0x1f5c2c={'k':_0x43c9a6[_0x460dba(0x1ee)],'sort':_0x43c9a6[_0x460dba(0x1e5)],'datef':_0x43c9a6[_0x460dba(0x1ce)],'durf':_0x43c9a6[_0x460dba(0x226)],'quality':_0x43c9a6[_0x460dba(0x224)],'vw':_0x43c9a6[_0x460dba(0x1bc)],'p':_0x43c9a6[_0x460dba(0x1cb)]-0x1,'top':''};Object['keys'](_0x1f5c2c)[_0x460dba(0x1f8)](_0x4aa37d=>{_0x1f5c2c[_0x4aa37d]===(undefined||'undefined')&&delete _0x1f5c2c[_0x4aa37d];}),query=qs['stringify'](_0x1f5c2c);let _0x1bcc53=_0x460dba(0x21a)+query;var {data:_0x2bee27}=await axios(_0x1bcc53);$=cheerio[_0x460dba(0x1dc)](_0x2bee27);let _0x4d760b=$(_0x460dba(0x206)),_0x4cd216=[];return _0x4d760b['each']((_0x1902fc,_0x467b80)=>{const _0x502eba=_0x460dba;let _0x51679c={};_0x51679c['video']=_0x502eba(0x1d1)+$(_0x467b80)[_0x502eba(0x207)](_0x502eba(0x1e6))[_0x502eba(0x207)](_0x502eba(0x1f5))['children']('a')['attr']('href'),_0x51679c['thumbnail']=$(_0x467b80)[_0x502eba(0x207)]('div[class=\x27thumb-inside\x27]')['children']('div[class=\x27thumb\x27]')[_0x502eba(0x207)]('a')[_0x502eba(0x207)](_0x502eba(0x1e2))['attr'](_0x502eba(0x1db)),_0x51679c['title']=$(_0x467b80)[_0x502eba(0x207)]('div[class=\x27thumb-under\x27]')[_0x502eba(0x207)]('p')[_0x502eba(0x207)]('a')[_0x502eba(0x1be)](_0x502eba(0x1bb)),_0x51679c[_0x502eba(0x214)]=$(_0x467b80)[_0x502eba(0x207)](_0x502eba(0x20e))[_0x502eba(0x207)]('p')[_0x502eba(0x207)]('a')[_0x502eba(0x207)](_0x502eba(0x1e9))[_0x502eba(0x1d2)](),_0x51679c[_0x502eba(0x1f3)]=$(_0x467b80)['children'](_0x502eba(0x20e))[_0x502eba(0x207)](_0x502eba(0x205))[_0x502eba(0x207)]('span')[_0x502eba(0x207)](_0x502eba(0x20f))[_0x502eba(0x207)]('a')[_0x502eba(0x207)]('span[class=\x27name\x27]')[_0x502eba(0x1d2)](),_0x51679c[_0x502eba(0x1fa)]=_0x502eba(0x1d1)+$(_0x467b80)[_0x502eba(0x207)](_0x502eba(0x20e))[_0x502eba(0x207)]('p[class=\x27metadata\x27]')['children']('span')[_0x502eba(0x207)]('span')['children']('a')[_0x502eba(0x1be)](_0x502eba(0x215)),_0x4cd216[_0x502eba(0x1fd)](_0x51679c);}),_0x4cd216;}catch(_0x95139a){return _0x95139a[_0x460dba(0x1bf)];}else{if(_0x43c9a6[_0x460dba(0x1c6)]===!![])try{var _0x1f5c2c={'k':_0x43c9a6[_0x460dba(0x1ee)],'sort':_0x43c9a6[_0x460dba(0x1e5)],'datef':_0x43c9a6[_0x460dba(0x1ce)],'durf':_0x43c9a6[_0x460dba(0x226)],'quality':_0x43c9a6['filterQuality'],'vw':_0x43c9a6['viewWatched'],'p':_0x43c9a6[_0x460dba(0x1cb)]-0x1,'top':''};Object[_0x460dba(0x1f4)](_0x1f5c2c)[_0x460dba(0x1f8)](_0x4d9d45=>{const _0x87fd69=_0x460dba;_0x1f5c2c[_0x4d9d45]===(undefined||_0x87fd69(0x210))&&delete _0x1f5c2c[_0x4d9d45];}),query=qs[_0x460dba(0x1d5)](_0x1f5c2c),query='http://www.xvideos2.com/?'+query;var _0x37e1bf=new FormData();_0x37e1bf[_0x460dba(0x209)](_0x460dba(0x1cd),query);let _0xf5900d=await axios({'method':_0x460dba(0x1d8),'url':_0x460dba(0x1e1),'data':_0x37e1bf,'headers':{'Content-Type':_0x460dba(0x220)}});$=cheerio[_0x460dba(0x1dc)](_0xf5900d[_0x460dba(0x1dd)]);let _0x441d81=$(_0x460dba(0x206)),_0x4524ba=[];return _0x441d81[_0x460dba(0x223)]((_0x45ac8c,_0x126dc3)=>{const _0x690f50=_0x460dba;let _0x48c0df={};_0x48c0df[_0x690f50(0x227)]=$(_0x126dc3)['children']('div[class=\x27thumb-inside\x27]')[_0x690f50(0x207)](_0x690f50(0x1f5))[_0x690f50(0x207)]('a')[_0x690f50(0x1be)]('href'),_0x48c0df[_0x690f50(0x1bb)]=$(_0x126dc3)[_0x690f50(0x207)](_0x690f50(0x20e))[_0x690f50(0x207)]('p')['children']('a')[_0x690f50(0x1be)](_0x690f50(0x1bb)),_0x48c0df[_0x690f50(0x214)]=$(_0x126dc3)[_0x690f50(0x207)]('div[class=\x27thumb-under\x27]')['children']('p')[_0x690f50(0x207)]('a')[_0x690f50(0x207)](_0x690f50(0x1e9))[_0x690f50(0x1d2)](),_0x48c0df[_0x690f50(0x1f3)]=$(_0x126dc3)[_0x690f50(0x207)](_0x690f50(0x20e))[_0x690f50(0x207)](_0x690f50(0x205))[_0x690f50(0x207)](_0x690f50(0x20f))[_0x690f50(0x207)](_0x690f50(0x20f))[_0x690f50(0x207)]('a')[_0x690f50(0x207)](_0x690f50(0x20b))[_0x690f50(0x1d2)](),_0x48c0df[_0x690f50(0x1fa)]=$(_0x126dc3)[_0x690f50(0x207)](_0x690f50(0x20e))[_0x690f50(0x207)]('p[class=\x27metadata\x27]')[_0x690f50(0x207)]('span')[_0x690f50(0x207)]('span')[_0x690f50(0x207)]('a')[_0x690f50(0x1be)](_0x690f50(0x215)),_0x4524ba[_0x690f50(0x1fd)](_0x48c0df);}),_0x4524ba;}catch(_0x4aaff0){return _0x4aaff0[_0x460dba(0x1bf)];}}},module[_0x307476(0x1e8)][_0x307476(0x229)]=async _0x1fe2ae=>{const _0x24c16c=_0x307476;package();if(_0x1fe2ae['proxy']===![]||typeof _0x1fe2ae[_0x24c16c(0x1c6)]==_0x24c16c(0x210))try{var {data:_0x5f2430}=await axios(_0x1fe2ae[_0x24c16c(0x208)]);$=cheerio[_0x24c16c(0x1dc)](_0x5f2430);let _0x2a2503={};_0x2a2503[_0x24c16c(0x1f0)]=$($('div[id=\x27html5video\x27]\x20div[id=\x27html5video_base\x27]\x20div')[_0x24c16c(0x207)]('a')[0x0])[_0x24c16c(0x1be)](_0x24c16c(0x215)),_0x2a2503[_0x24c16c(0x20d)]=$($(_0x24c16c(0x1c9))['children']('a')[0x1])[_0x24c16c(0x1be)]('href'),_0x2a2503[_0x24c16c(0x1e4)]=$($(_0x24c16c(0x1c9))['children']('a')[0x2])[_0x24c16c(0x1be)](_0x24c16c(0x215)),_0x2a2503['UHD_Quality']=$($(_0x24c16c(0x1da))[0x8])['text']()['split'](_0x24c16c(0x216))[0x1][_0x24c16c(0x218)]('(\x27')[0x1][_0x24c16c(0x218)]('\x27)')[0x0];let _0x3a7f43=[JSON[_0x24c16c(0x1ec)]($($(_0x24c16c(0x1da))[0x2])['text']()[_0x24c16c(0x1cf)](/@/g,''))];_0x3a7f43[0x0][_0x24c16c(0x1c4)]=_0x2a2503,_0x3a7f43[0x0]['name']=entities[_0x24c16c(0x1c3)](_0x3a7f43[0x0][_0x24c16c(0x22a)]),_0x3a7f43[0x0][_0x24c16c(0x1fe)]=entities[_0x24c16c(0x1c3)](_0x3a7f43[0x0][_0x24c16c(0x1fe)]),_0x3a7f43[0x0][_0x24c16c(0x213)][_0x24c16c(0x1ff)]=_0x3a7f43[0x0][_0x24c16c(0x213)]['userInteractionCount'][_0x24c16c(0x211)]()[_0x24c16c(0x1cf)](/\B(?=(\d{3})+(?!\d))/g,',')+'\x20Views';const {type:_0x46dbd4,context:_0x509d83,duration:_0x16692c,..._0x3b7568}=_0x3a7f43[0x0];return{..._0x3b7568};}catch(_0x499cf){return _0x499cf['response'];}else{if(_0x1fe2ae[_0x24c16c(0x1c6)]===!![])try{var {data:_0x5f2430}=await axios['get'](_0x1fe2ae[_0x24c16c(0x208)]);$=cheerio[_0x24c16c(0x1dc)](_0x5f2430);var _0xad2ea3=[JSON[_0x24c16c(0x1ec)]($($(_0x24c16c(0x1da))[0x2])['text']()['replace'](/@/g,''))];_0xad2ea3[0x0]['name']=entities[_0x24c16c(0x1c3)](_0xad2ea3[0x0]['name']),_0xad2ea3[0x0][_0x24c16c(0x1fe)]=entities[_0x24c16c(0x1c3)](_0xad2ea3[0x0][_0x24c16c(0x1fe)]);const {type:_0x488348,context:_0x3512e0,duration:_0xe1fe24,..._0x1d4215}=_0xad2ea3[0x0];return{..._0x1d4215};}catch(_0x44423f){return _0x44423f[_0x24c16c(0x1bf)];}}},module['exports']['mediafire']=async _0x139e1a=>{const _0xb6bfda=_0x307476;package();const _0x22350f=await axios['get'](_0xb6bfda(0x1f7)+_0x139e1a['replace'](_0xb6bfda(0x221),'')+_0xb6bfda(0x1d3)),_0x5bc419=cheerio[_0xb6bfda(0x1dc)](_0x22350f['data']),_0x146e9c=_0x5bc419(_0xb6bfda(0x228))[_0xb6bfda(0x1be)]('href'),_0x4c6100=_0x5bc419(_0xb6bfda(0x1e0))[_0xb6bfda(0x1be)](_0xb6bfda(0x1bb))[_0xb6bfda(0x1c1)]('\x20','')['replaceAll']('\x0a',''),_0x190858=_0x5bc419(_0xb6bfda(0x1f2))['text'](),_0xeae4ba=_0x5bc419(_0xb6bfda(0x228))[_0xb6bfda(0x1d2)]()[_0xb6bfda(0x1cf)](_0xb6bfda(0x1fb),'')[_0xb6bfda(0x1cf)]('(','')[_0xb6bfda(0x1cf)](')','')['replace']('\x0a','')[_0xb6bfda(0x1cf)]('\x0a','')[_0xb6bfda(0x1cf)]('\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','')[_0xb6bfda(0x1c1)]('\x20','');let _0x142de0='',_0x4a552e=await axios[_0xb6bfda(0x1f6)](_0x146e9c);return _0x142de0=_0x4a552e['headers'][_0xb6bfda(0x1df)],{'name':_0x4c6100,'size':_0xeae4ba,'date':_0x190858,'mime':_0x142de0,'link':_0x146e9c};},module[_0x307476(0x1e8)][_0x307476(0x225)]=async _0x53aad8=>{return package(),new Promise(async(_0x63e068,_0x20b50e)=>{const _0x3b3ff8=_0x2981,_0x263215={'url':_0x53aad8};await axios({'url':'https://www.getfvid.com/downloader','method':_0x3b3ff8(0x21f),'data':new URLSearchParams(Object['entries'](_0x263215)),'headers':{'accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9','accept-language':_0x3b3ff8(0x1d9),'cache-control':'max-age=0','content-type':'application/x-www-form-urlencoded','sec-ch-ua':_0x3b3ff8(0x1c0),'user-agent':_0x3b3ff8(0x21d)}})[_0x3b3ff8(0x1d7)](_0x3306e0=>{const _0x42f41c=_0x3b3ff8,_0xf985f=cheerio[_0x42f41c(0x1dc)](_0x3306e0[_0x42f41c(0x1dd)]);let _0x44f96e=_0xf985f(_0x42f41c(0x1ea))['find'](_0x42f41c(0x1c5))[_0x42f41c(0x1be)](_0x42f41c(0x215)),_0x53805c=_0xf985f(_0x42f41c(0x1ea))['find'](_0x42f41c(0x1c2))[_0x42f41c(0x1be)](_0x42f41c(0x215)),_0x5505d7=_0xf985f('body\x20>\x20div.page-content\x20>\x20div\x20>\x20div\x20>\x20div.col-lg-10.col-md-10.col-centered\x20>\x20div\x20>\x20div:nth-child(3)\x20>\x20div\x20>\x20div.col-md-4.btns-download\x20>\x20p:nth-child(3)\x20>\x20a')['attr'](_0x42f41c(0x215)),_0x55a0cd=_0xf985f('body\x20>\x20div.page-content\x20>\x20div\x20>\x20div\x20>\x20div.col-lg-10.col-md-10.col-centered\x20>\x20div\x20>\x20div:nth-child(3)\x20>\x20div\x20>\x20div.col-md-5.no-padd\x20>\x20div\x20>\x20h5\x20>\x20a')[_0x42f41c(0x1d2)]();const _0x38d6a2={'status':!![],'author':'Nimesh\x20Official','result':{'Title':_0x55a0cd,'HD':_0x44f96e,'SD':_0x53805c,'Audio':_0x5505d7}};_0x63e068(_0x38d6a2);})['catch'](_0x20b50e);});},module[_0x307476(0x1e8)][_0x307476(0x201)]=async _0x52f238=>{return new Promise((_0x2eb26c,_0xc0d60d)=>{const _0x80eb3=_0x2981;axios[_0x80eb3(0x1f1)](_0x80eb3(0x1cc)+_0x52f238)[_0x80eb3(0x1d7)](_0x4c5139=>{const _0x220bfc=_0x80eb3;let _0x3f36c7=cheerio[_0x220bfc(0x1dc)](_0x4c5139['data']),_0x39af95=[];_0x3f36c7(_0x220bfc(0x1ca))[_0x220bfc(0x223)](function(_0x77351b,_0x5278fe){const _0x4c2d2e=_0x220bfc;_0x39af95['push']({'title':_0x3f36c7(_0x5278fe)[_0x4c2d2e(0x202)]('h4')[_0x4c2d2e(0x1d2)](),'source':_0x4c2d2e(0x21b)+_0x3f36c7(_0x5278fe)['find']('a')[_0x4c2d2e(0x1be)](_0x4c2d2e(0x215)),'audio':_0x3f36c7(_0x5278fe)['find'](_0x4c2d2e(0x1eb))[_0x4c2d2e(0x1be)](_0x4c2d2e(0x219))});}),_0x2eb26c(_0x39af95);});});},module['exports'][_0x307476(0x1ef)]=async(_0x49853e,_0xb0700a=_0x307476(0x212))=>{return new Promise((_0x1a47d9,_0x52df83)=>{const _0x831a3c=_0x2981,_0x51fa76=_0x831a3c(0x1d6),_0x5885aa={'url':_0x49853e,'device':_0xb0700a,'cacheLimit':0x0};axios({'url':_0x51fa76+_0x831a3c(0x222),'method':_0x831a3c(0x21f),'data':new URLSearchParams(Object['entries'](_0x5885aa)),'headers':{'content-type':_0x831a3c(0x203)}})[_0x831a3c(0x1d7)](_0x454e27=>{const _0x21b7ef=_0x831a3c,_0x52c310=_0x454e27[_0x21b7ef(0x1ed)]['set-cookie'];_0x454e27[_0x21b7ef(0x1dd)][_0x21b7ef(0x200)]=='success'?axios[_0x21b7ef(0x1f1)](_0x51fa76+'/'+_0x454e27[_0x21b7ef(0x1dd)][_0x21b7ef(0x1c8)],{'headers':{'cookie':_0x52c310[_0x21b7ef(0x20c)]('')},'responseType':'arraybuffer'})[_0x21b7ef(0x1d7)](({data:_0x57e90c})=>{result={'status':0xc8,'result':_0x57e90c},_0x1a47d9(result);}):_0x52df83({'status':0x194,'statuses':_0x21b7ef(0x1d4),'message':_0x454e27[_0x21b7ef(0x1dd)]});})[_0x831a3c(0x217)](_0x52df83);});};function _0x4eec(){const _0x192f6a=['multipart/form-data','https://www.mediafire.com/','/capture.php','each','filterQuality','fbdl','filterDuration','video','#downloadButton','getVideoData','name','private-scraper','title','viewWatched','5bXBPAJ','attr','response','\x22\x20Not\x20A;Brand\x22;v=\x2299\x22,\x20\x22Chromium\x22;v=\x2290\x22,\x20\x22Google\x20Chrome\x22;v=\x2290\x22','replaceAll','div\x20>\x20div:nth-child(3)\x20>\x20div\x20>\x20div.col-md-4.btns-download\x20>\x20p:nth-child(2)\x20>\x20a','decodeHTML','contentUrl','div\x20>\x20div:nth-child(3)\x20>\x20div\x20>\x20div.col-md-4.btns-download\x20>\x20p:nth-child(1)\x20>\x20a','proxy','28445230FnpDvu','link','div[id=\x27html5video\x27]\x20div[id=\x27html5video_base\x27]\x20div','#__next\x20>\x20main\x20>\x20section\x20>\x20div.jsx-2244708474.container\x20>\x20div\x20>\x20div\x20>\x20div\x20>\x20div:nth-child(4)\x20>\x20div\x20>\x20div\x20>\x20div\x20>\x20ul\x20>\x20li','pagination','https://meloboom.com/en/search/','url','filterDate','replace','216090mDVuAy','https://www.xvideos2.com','text','?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=en&_x_tr_pto=wapp','Link\x20Error','stringify','https://www.screenshotmachine.com','then','post','en-US,en;q=0.9,id;q=0.8','script','data-src','load','data','8474564Dqzgxf','content-type','body\x20>\x20main\x20>\x20div.content\x20>\x20div.center\x20>\x20div\x20>\x20div.dl-btn-cont\x20>\x20div.dl-btn-labelWrap\x20>\x20div.promoDownloadName.notranslate\x20>\x20div','https://zend2.com/index.php','img','form-data','HD_Quality','sort','div[class=\x27thumb-inside\x27]','4842BFngHO','exports','span[class=\x27duration\x27]','body\x20>\x20div.page-content\x20>\x20div\x20>\x20div\x20>\x20div.col-lg-10.col-md-10.col-centered','audio','parse','headers','search','ssweb','Default_Quality','get','body\x20>\x20main\x20>\x20div.content\x20>\x20div.center\x20>\x20div\x20>\x20div.dl-info\x20>\x20ul\x20>\x20li:nth-child(2)\x20>\x20span','uploaderName','keys','div[class=\x27thumb\x27]','head','https://www-mediafire-com.translate.goog/','forEach','3232232XnpPOy','uploaderProfile','Download','108434nsPXfJ','push','description','userInteractionCount','status','ringtone','find','application/x-www-form-urlencoded;\x20charset=UTF-8','entities','p[class=\x27metadata\x27]','div[id=\x27content\x27]\x20div[class=\x27mozaique\x20cust-nb-cols\x27]\x20div[class=\x27thumb-block\x20\x20\x27]','children','videoUrl','append','9196620pQnCvw','span[class=\x27name\x27]','join','Low_Quality','div[class=\x27thumb-under\x27]','span','undefined','toString','desktop','interactionStatistic','duration','href','setVideoHLS','catch','split','src','http://www.xvideos2.com/?','https://meloboom.com/','14320liXaxu','Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/89.0.4389.90\x20Safari/537.36','9HMWMIR','POST'];_0x4eec=function(){return _0x192f6a;};return _0x4eec();}
+const axios = require("axios")
+const cheerio = require("cheerio")
+const entities = require("entities");
+const FormData = require('form-data');
+const qs = require('qs');
+const pkg = require('./package.json'),
+
+msg = 'Not Allowed Cracked Version..'
+async function package() {
+if (pkg.name != 'private-scraper') {
+throw new Error(msg)
+}
+}
+package()
+
+module.exports.searchVideo = async (val) => {
+ package()
+ if (val.proxy === false || typeof val.proxy == "undefined"){
+  try {
+   var obj = {
+    k: val.search,
+    sort: val.sort,
+    datef: val.filterDate,
+    durf: val.filterDuration,
+    quality: val.filterQuality,
+    vw: val.viewWatched,
+    p: val.pagination - 1,
+    top: ''
+   }
+   Object.keys(obj).forEach(key => {
+    if (obj[key] === (undefined || "undefined")) {
+     delete obj[key];
+    }
+   });
+   query = qs.stringify(obj);
+   let url = `http://www.xvideos2.com/?${query}`
+   var {data} = await axios(url)
+   $ = cheerio.load(data)
+   let videosContainer = $("div[id='content'] div[class='mozaique cust-nb-cols'] div[class='thumb-block  ']");
+   let arr = [];
+   videosContainer.each((idx, el) => {
+    let obj = {};
+    obj.video = "https:\/\/www.xvideos2.com"+$(el).children("div[class='thumb-inside']").children("div[class='thumb']").children("a").attr("href");
+    obj.thumbnail = $(el).children("div[class='thumb-inside']").children("div[class='thumb']").children("a").children("img").attr("data-src");
+    obj.title = $(el).children("div[class='thumb-under']").children("p").children("a").attr("title");
+    obj.duration = $(el).children("div[class='thumb-under']").children("p").children("a").children("span[class='duration']").text();
+    obj.uploaderName = $(el).children("div[class='thumb-under']").children("p[class='metadata']").children("span").children("span").children("a").children("span[class='name']").text();
+    obj.uploaderProfile = "https:\/\/www.xvideos2.com"+$(el).children("div[class='thumb-under']").children("p[class='metadata']").children("span").children("span").children("a").attr("href");
+    arr.push(obj);
+   });
+   return arr
+  }
+  catch (e){
+   return e.response
+  }
+ } else if (val.proxy === true) {
+  try {
+   var obj = {
+    k: val.search,
+    sort: val.sort,
+    datef: val.filterDate,
+    durf: val.filterDuration,
+    quality: val.filterQuality,
+    vw: val.viewWatched,
+    p: val.pagination - 1,
+    top: ''
+   }
+   Object.keys(obj).forEach(key => {
+    if (obj[key] === (undefined || "undefined")) {
+     delete obj[key];
+    }
+   });
+   query = qs.stringify(obj)
+   query = "http://www.xvideos2.com/?"+query
+   var bodyFormData = new FormData();
+   bodyFormData.append('url', query);
+   let html = await axios({
+    method: "post",
+    url: "https://zend2.com/index.php",
+    data: bodyFormData,
+    headers: {
+     "Content-Type": "multipart/form-data"
+    }
+   })
+   $ = cheerio.load(html.data)
+   let videosContainer = $("div[id='content'] div[class='mozaique cust-nb-cols'] div[class='thumb-block  ']");
+   let arr = [];
+   videosContainer.each((idx, el) => {
+    let obj = {};
+    obj.video = $(el).children("div[class='thumb-inside']").children("div[class='thumb']").children("a").attr("href");
+    obj.title = $(el).children("div[class='thumb-under']").children("p").children("a").attr("title");
+    obj.duration = $(el).children("div[class='thumb-under']").children("p").children("a").children("span[class='duration']").text();
+    obj.uploaderName = $(el).children("div[class='thumb-under']").children("p[class='metadata']").children("span").children("span").children("a").children("span[class='name']").text();
+    obj.uploaderProfile = $(el).children("div[class='thumb-under']").children("p[class='metadata']").children("span").children("span").children("a").attr("href");
+    arr.push(obj);
+   });
+   return arr
+  }
+  catch (e){
+   return e.response
+  }
+ }
+}
+
+module.exports.getVideoData = async (val) => {
+ package()
+ if (val.proxy === false || typeof val.proxy == "undefined"){
+  try {
+   var {data} = await axios(val.videoUrl)
+   $ = cheerio.load(data)
+   let obj = {}
+   obj.Default_Quality = $($("div[id='html5video'] div[id='html5video_base'] div").children("a")[0]).attr("href")
+   obj.Low_Quality = $($("div[id='html5video'] div[id='html5video_base'] div").children("a")[1]).attr("href")
+   obj.HD_Quality = $($("div[id='html5video'] div[id='html5video_base'] div").children("a")[2]).attr("href")
+   obj.UHD_Quality = $($("script")[8]).text().split("setVideoHLS")[1].split("('")[1].split("')")[0]
+   let arr = [JSON.parse($($("script")[2]).text().replace(/@/g,""))]
+   arr[0].contentUrl = obj
+   arr[0].name = entities.decodeHTML(arr[0].name)
+   arr[0].description = entities.decodeHTML(arr[0].description)
+   arr[0].interactionStatistic.userInteractionCount = arr[0].interactionStatistic.userInteractionCount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")+" Views";
+   const {type,context,duration, ...newObj} = arr[0]
+   return {...newObj}
+  }
+  catch (e){
+   return e.response
+  }
+ } else if (val.proxy === true){
+  try {
+   var {data} = await axios.get(val.videoUrl)
+   $ = cheerio.load(data)
+   var arr = [JSON.parse($($("script")[2]).text().replace(/@/g,""))]
+   arr[0].name = entities.decodeHTML(arr[0].name)
+   arr[0].description = entities.decodeHTML(arr[0].description)
+   const {type,context,duration, ...newObj} = arr[0]
+   return {...newObj}
+  }
+  catch (e){
+   return e.response
+  }
+ }
+}
+
+module.exports.mediafire = async (url) => {
+    package()
+    const res = await axios.get(`https://www-mediafire-com.translate.goog/${url.replace('https://www.mediafire.com/','')}?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=en&_x_tr_pto=wapp`);
+    const $ = cheerio.load(res.data);
+    const link = $('#downloadButton').attr('href');
+    const name = $('body > main > div.content > div.center > div > div.dl-btn-cont > div.dl-btn-labelWrap > div.promoDownloadName.notranslate > div').attr('title').replaceAll(' ','').replaceAll('\n','');
+    const date = $('body > main > div.content > div.center > div > div.dl-info > ul > li:nth-child(2) > span').text()
+    const size = $('#downloadButton').text().replace('Download', '').replace('(', '').replace(')', '').replace('\n', '').replace('\n', '').replace('                         ', '').replaceAll(' ','');
+    let mime = '';
+    let rese = await axios.head(link)
+    mime = rese.headers['content-type']
+    return { name ,size ,date ,mime ,link };        
+}
+
+module.exports.fbdl = async (Link) => {
+    package()
+    return new Promise (async (resolve, reject) => {
+	const BodyForm = {
+	url: Link
+	}
+	await axios({
+	url: "https://www.getfvid.com/downloader",
+	method: "POST",
+	data:  new URLSearchParams(Object.entries(BodyForm)),
+	headers: {
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"accept-language": "en-US,en;q=0.9,id;q=0.8",
+	"cache-control": "max-age=0",
+	"content-type": "application/x-www-form-urlencoded",
+	"sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\", \"Google Chrome\";v=\"90\"",
+	'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36'
+	}
+	}).then(respon => {
+	const $ = cheerio.load(respon.data)
+	let HD = $("body > div.page-content > div > div > div.col-lg-10.col-md-10.col-centered").find('div > div:nth-child(3) > div > div.col-md-4.btns-download > p:nth-child(1) > a').attr('href')
+	let Normal = $("body > div.page-content > div > div > div.col-lg-10.col-md-10.col-centered").find('div > div:nth-child(3) > div > div.col-md-4.btns-download > p:nth-child(2) > a').attr("href")
+	let AU = $("body > div.page-content > div > div > div.col-lg-10.col-md-10.col-centered > div > div:nth-child(3) > div > div.col-md-4.btns-download > p:nth-child(3) > a").attr("href")
+    let tt = $("body > div.page-content > div > div > div.col-lg-10.col-md-10.col-centered > div > div:nth-child(3) > div > div.col-md-5.no-padd > div > h5 > a").text()
+	const result = {
+	status: true,
+	author: "Nimesh Official",
+	result: {
+    Title: tt,
+	HD: HD,
+	SD: Normal,
+    Audio: AU
+	}
+	}
+	resolve(result)
+	}).catch(reject)
+	})
+}
+
+module.exports.ringtone = async (text) => {
+    return new Promise((resolve, reject) => {
+        axios.get('https://meloboom.com/en/search/'+text)
+        .then((get) => {
+            let $ = cheerio.load(get.data)
+            let hasil = []
+            $('#__next > main > section > div.jsx-2244708474.container > div > div > div > div:nth-child(4) > div > div > div > ul > li').each(function (a, b) {
+                hasil.push({ title: $(b).find('h4').text(), source: 'https://meloboom.com/'+$(b).find('a').attr('href'), audio: $(b).find('audio').attr('src') })
+            })
+            resolve(hasil)
+        })
+    })
+}
+
+module.exports.ssweb = async (url, device = 'desktop') => {
+    return new Promise((resolve, reject) => {
+         const base = 'https://www.screenshotmachine.com'
+         const param = {
+           url: url,
+           device: device,
+           cacheLimit: 0
+         }
+         axios({url: base + '/capture.php',
+              method: 'POST',
+              data: new URLSearchParams(Object.entries(param)),
+              headers: {
+                   'content-type': 'application/x-www-form-urlencoded; charset=UTF-8'
+              }
+         }).then((data) => {
+              const cookies = data.headers['set-cookie']
+              if (data.data.status == 'success') {
+                   axios.get(base + '/' + data.data.link, {
+                        headers: {
+                             'cookie': cookies.join('')
+                        },
+                        responseType: 'arraybuffer'
+                   }).then(({ data }) => {
+                       result = {
+                           status: 200,
+                           result: data
+                       }
+                        resolve(result)
+                   })
+              } else {
+                   reject({ status: 404, statuses: `Link Error`, message: data.data })
+              }
+         }).catch(reject)
+    })
+}
